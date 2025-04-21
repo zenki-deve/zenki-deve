@@ -15,7 +15,7 @@
 
 ### 🌐 Socials
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;" align="center">
   <a href="https://t.me/zenki6">
     <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram">
   </a>
