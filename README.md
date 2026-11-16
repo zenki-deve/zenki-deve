@@ -39,7 +39,7 @@ Full-stack developer and automation engineer specializing in high-concurrency ba
 | **Steam Account Fleet** | High-concurrency infrastructure for centralized account fleet control, 2FA confirmations, and session renewal. | `Python` `Go` `Steam API` | Commercial |
 | **Price Intelligence & Repricer** | Multi-platform price scrapers (Xbox, PSN, Steam, FunPay) with sub-200ms dynamic repricer for Plati. | `Python` `curl_cffi` `Redis` | Commercial |
 | **Server Ops & Telegram Orchestrator** | Centralized backend paired with Telegram bot for remote server management, Docker control, and proxy provisioning. | `Go` `Telegram API` `Docker` | Production |
-| **Chernihiv Svitlo Bot** | Telegram bot and real-time monitoring service for power outage schedules and electric grid tracking. | `Python` `Aiohttp` `Docker` | Active |
+| **Chernihiv Svitlo Bot** | Telegram bot and real-time monitoring service for power outage schedules and electric grid tracking. | `Python` `Aiohttp` `Docker` | Archive |
 
 ---
 
@@ -79,8 +79,11 @@ Full-stack developer and automation engineer specializing in high-concurrency ba
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenki-deve&theme=radical" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=zenki-deve&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenki-deve&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="assets/metrics-languages.svg" alt="GitHub Stats and Indepth Languages" />
+  <br><br>
+  <a href="https://pagespeed.web.dev/analysis/https-texttoimages-pro-ua/fmwp2vcqxs?hl=ru&form_factor=mobile">
+    <img src="assets/metrics-pagespeed.svg" alt="PageSpeed Scores and Detailed Report" />
+  </a>
 </div>
 
 ---
